@@ -30,7 +30,6 @@ Tendo como objetivo principal ir para a área de tecnologia, retomei, em 2025, a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelbercosta&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbercosta&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </div>
 
 ## 🏆 Projetos Destacados
