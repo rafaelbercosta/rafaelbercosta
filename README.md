@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Rafael Costa!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Educação+Física+%2B+Tech;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Tecnologia+%2B+Atividade+física+❤️;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
