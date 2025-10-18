@@ -26,10 +26,18 @@ Tendo como objetivo principal ir para a área de tecnologia, retomei, em 2025, a
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📈 Minha Evolução Profissional
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbercosta&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/2019-2023-Educação%20Física-FF6B6B?style=for-the-badge" alt="Educação Física"/>
+  <img src="https://img.shields.io/badge/2024-Trybe%201500h-4ECDC4?style=for-the-badge" alt="Trybe"/>
+  <img src="https://img.shields.io/badge/2025-ADS%20Mackenzie-45B7D1?style=for-the-badge" alt="ADS"/>
+  <img src="https://img.shields.io/badge/2025-TreinoTech-96CEB4?style=for-the-badge" alt="TreinoTech"/>
+</div>
+
+<div align="center">
+  <h3>🏋️‍♂️ + 💻 = 🚀</h3>
+  <p><strong>Conhecimento em movimento humano + Habilidades técnicas = Soluções inovadoras</strong></p>
 </div>
 
 ## 🏆 Projetos Destacados
