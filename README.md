@@ -26,37 +26,16 @@ Tendo como objetivo principal ir para a área de tecnologia, retomei, em 2025, a
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-## 💪 Tecnologia + Musculação = Paixão
+## 🏆 Minha Jornada: Educação Física → Tecnologia
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">🏋️‍♂️</td>
-      <td align="center">💻</td>
-      <td align="center">🏋️‍♂️</td>
-      <td align="center">💻</td>
-      <td align="center">🏋️‍♂️</td>
-    </tr>
-    <tr>
-      <td align="center">💻</td>
-      <td align="center">🏋️‍♂️</td>
-      <td align="center">💻</td>
-      <td align="center">🏋️‍♂️</td>
-      <td align="center">💻</td>
-    </tr>
-    <tr>
-      <td align="center">🏋️‍♂️</td>
-      <td align="center">💻</td>
-      <td align="center">🏋️‍♂️</td>
-      <td align="center">💻</td>
-      <td align="center">🏋️‍♂️</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3>🏋️‍♂️ + 💻 = 🚀</h3>
-  <p><strong>Conhecimento em movimento humano + Habilidades técnicas = Soluções inovadoras</strong></p>
+  <pre>
+  💪 EDUCAÇÃO FÍSICA    +    💻 TECNOLOGIA    =    🚀 DESENVOLVEDOR
+  
+  🏋️‍♂️ Formação em EF     💻 Curso Trybe 1500h     🎯 Full Stack Dev
+  📚 Conhecimento       🛠️ Habilidades Técnicas   ⚡ Soluções Inovadoras
+  🎯 Metodologia        🔧 Ferramentas Modernas    🌟 Resultados Excepcionais
+  </pre>
 </div>
 
 ## 🏆 Projetos Destacados
