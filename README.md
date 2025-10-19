@@ -26,16 +26,40 @@ Tendo como objetivo principal ir para a área de tecnologia, retomei, em 2025, a
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-## 🏆 Minha Jornada: Educação Física → Tecnologia
+## 💪 Minha Jornada: Fitness + Tech
 
 <div align="center">
-  <pre>
-  💪 EDUCAÇÃO FÍSICA    +    💻 TECNOLOGIA    =    🚀 DESENVOLVEDOR
+  <table>
+    <tr>
+      <td>🔵🔵🔵</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>🔵🔵🔵</td>
+    </tr>
+    <tr>
+      <td>🔵🔵🔵</td>
+      <td>━━━━━━━━━━━━━━━</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>🔵🔵🔵</td>
+    </tr>
+    <tr>
+      <td>🔵🔵🔵</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>🔵🔵🔵</td>
+    </tr>
+  </table>
   
-  🏋️‍♂️ Formação em EF     💻 Curso Trybe 1500h     🎯 Full Stack Dev
-  📚 Conhecimento       🛠️ Habilidades Técnicas   ⚡ Soluções Inovadoras
-  🎯 Metodologia        🔧 Ferramentas Modernas    🌟 Resultados Excepcionais
-  </pre>
+  <h3>🏋️‍♂️ Educação Física + 💻 Full Stack = 🚀 TreinoTech</h3>
 </div>
 
 ## 🏆 Projetos Destacados
