@@ -6,11 +6,11 @@
 
 ## 🚀 Sobre Mim
 
-Sou formado em **Educação Física**, mas sempre me encantei pela tecnologia e sempre tive curiosidade em saber como um computador funcionava. 
+Meu nome é Rafael e eu sou desenvolvedor web. Sou formado em Educação Física, mas sempre me encantei pela tecnologia e sempre tive curiosidade em saber como um computador funcionava.
 
-À procura de novos desafios, iniciei os estudos em programação e concluí um curso de **1.500 horas de desenvolvimento web full stack** pela Trybe. 
+A procura de novos desafios, iniciei os estudos em programação com um tecnólogo de análise e desenvolvimento de sistemas. Estudei durante 3 semestres, porém tranquei o curso e comecei a estudar desenvolvimento web. Transitando para uma área mais específica, conclui um curso de 1500 horas de desenvolvimento web full stack pela Trybe.
 
-Tendo como objetivo principal ir para a área de tecnologia, retomei, em 2025, a graduação de **Tecnólogo em Análise e Desenvolvimento de Sistemas**, em busca da minha primeira oportunidade de trabalho.
+Tendo como objetivo principal ir para a área de tecnologia, retomei em 2025 a graduação de tecnólogo em Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de trabalho.
 
 ## 🛠️ Tecnologias
 
