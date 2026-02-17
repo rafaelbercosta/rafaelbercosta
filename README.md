@@ -28,7 +28,13 @@ Tendo como objetivo principal ir para a área de tecnologia, retomei em 2025 a g
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbercosta&theme=github_dark)
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbercosta&theme=github_dark"
+    width="500"
+  />
+</p>
+
 
 
 
