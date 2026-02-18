@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Rafael%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Python&descAlignY=55&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:1E3A8A&height=220&section=header&text=Rafael%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Python&descAlignY=55&descAlign=50"
     width="100%"
   />
 </p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Full+Stack;Tecnologia+%2B+Atividade+física+❤️;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
