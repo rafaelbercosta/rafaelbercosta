@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:1E3A8A&height=220&section=header&text=Rafael%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Python&descAlignY=55&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003366,100:0059B3&height=220&section=header&text=Rafael%20Costa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20C%23%20/%20.NET%20%E2%80%A2%20Python&descAlignY=55&descAlign=50"
     width="100%"
   />
 </p>
+
 
 
 <div align="center">
