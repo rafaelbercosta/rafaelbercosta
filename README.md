@@ -39,9 +39,12 @@ Tendo como objetivo principal ir para a área de tecnologia, retomei em 2025 a g
 
 <br><br>
 
-
-
-
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelbercosta&theme=github_dark"
+    width="400"
+  />
+</p>
 
 
 ## 🏆 Projetos Destacados
