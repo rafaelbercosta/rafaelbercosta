@@ -20,7 +20,7 @@ A procura de novos desafios, iniciei os estudos em programação com um tecnólo
 Tendo como objetivo principal ir para a área de tecnologia, retomei em 2025 a graduação de tecnólogo em Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de trabalho.
 <br>
 
-<h1 align="center">🛠️ Tecnologias</h1>
+<h2 align="center">🛠️ Tecnologias</h2>
 <br>
 
 <div align="center">
