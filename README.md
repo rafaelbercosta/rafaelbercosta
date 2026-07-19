@@ -13,11 +13,13 @@
 
 ## 🚀 Sobre Mim
 
-Meu nome é Rafael e eu sou desenvolvedor web. Sou formado em Educação Física, mas sempre me encantei pela tecnologia e sempre tive curiosidade em saber como um computador funcionava.
+Meu nome é Rafael e estou em transição de carreira para a área de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-A procura de novos desafios, iniciei os estudos em programação com um tecnólogo de análise e desenvolvimento de sistemas. Estudei durante 3 semestres, porém tranquei o curso e comecei a estudar desenvolvimento web. Transitando para uma área mais específica, conclui um curso de 1500 horas de desenvolvimento web full stack pela Trybe.
+Antes de ingressar na área de tecnologia, construí minha carreira em outro segmento, experiência que me ajudou a desenvolver habilidades como comunicação, disciplina, organização e trabalho em equipe. Motivado pelo interesse em tecnologia e desenvolvimento de software, passei a me dedicar aos estudos de programação e desenvolvimento web.
 
-Tendo como objetivo principal ir para a área de tecnologia, retomei em 2025 a graduação de tecnólogo em Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de trabalho.
+Possuo experiência prática em desenvolvimento web utilizando JavaScript, React, Node.js e APIs REST, além de contato com outras linguagens e tecnologias ao longo da minha formação e projetos. Entre eles está o TreinoTech, uma aplicação criada para auxiliar na organização e acompanhamento de treinos, permitindo aplicar conhecimentos de front-end, back-end e integração de sistemas.
+
+Atualmente, busco minha primeira oportunidade profissional na área de tecnologia, onde possa aplicar meus conhecimentos na prática, contribuindo com dedicação, aprendizado contínuo e vontade de crescer profissionalmente.
 <br>
 
 <h2 align="center">🛠️ Tecnologias</h2>
